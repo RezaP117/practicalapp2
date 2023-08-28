@@ -1,5 +1,10 @@
 Practical Application 2:
 
+Files:
+
+1. prompt_II.ipynb - Dropped all rows with NaNs and used the data set with around 30k rows and 3 models
+2. prompt_II_v2.ipynb - Cleaned data more rigoriously and used about 390k rows of data and 2 models
+
 In this data set I was working on data from used car dealerships which consisted of features such as condition, color, odometer number, number of cylinders, etc.
 
 My job is to generate an accurate model to predict prices as well as determine what features lead to higher prices which I can use to tell future used car dealerships so that they can try and maximize their profits.
